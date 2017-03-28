@@ -1,0 +1,299 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"inlin",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/E/a/lesson.html",
+			"settings":
+			{
+				"buffer_size": 148,
+				"line_ending": "Windows",
+				"name": "<h1>Shopping List</h1>"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<html>\n<body>\n<div>\n<ul>\n<li>bricks</li>\n<li>mortar</li>\n\n</ul>\n</div>\n\n</body>",
+			"file": "/E/a/index.html",
+			"file_size": 0,
+			"file_write_time": 131351873800000000,
+			"settings":
+			{
+				"buffer_size": 79,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/metrix/Documents/_File Drop/DEn - Dufry",
+		"/S/PVC/01 - Financials/Benefit Determination/2016-04, B-MEZZ/Determination Notes",
+		"/C/Users/metrix/Documents/7. Temp Delete -- Discount Tire/temp -- delete -- scores",
+		"/C/Users/metrix/Desktop/Rob Mini Projects/OWLe & ARN Hyatt/2. OWLe Observation Template - to Heathrow/Robb's notes",
+		"/C/Users/metrix/Desktop/Udemy - Learning/Udemy - Learning",
+		"/C/Users/metrix/Documents/Joe - Work/learning/learning/CSS 3/HTML/divDisplay2.html",
+		"/C/Users/metrix/Documents/Joe - Work/learning/learning/CSS 3/HTML/CSS/DivDisplay2a.css",
+		"/C/Users/metrix/Documents/Joe - Work/learning/learning/CSS 3/HTML/divDisplay.html",
+		"/C/Users/metrix/Documents/Joe - Work/learning/learning/Answers",
+		"/C/Users/metrix/Documents/Joe - Work/learning/learning/Java,HTML,CSS/contact.html",
+		"/C/Users/metrix/Documents/Joe - Work/learning/learning/Java,HTML,CSS/onclickAttribute.html",
+		"/C/Users/metrix/Documents/Joe - Work/learning/learning/Java,HTML,CSS/onclickAttributegoodbye.html",
+		"/C/Users/metrix/Documents/Joe - Work/learning/learning/Java,HTML,CSS/scripttag.html",
+		"/C/Users/metrix/Documents/Joe - Work/learning/learning/Java,HTML,CSS/L7of9.html",
+		"/C/Users/metrix/Documents/Joe - Work/learning/learning/Java,HTML,CSS/gallery/aboutme.html",
+		"/C/Users/metrix/Documents/Joe - Work/data/learning/CSS 3/HTML/together-1.html",
+		"/C/Users/metrix/Documents/Joe - Work/data/learning/CSS 3/HTML/divDisplay.html",
+		"/C/Users/metrix/Documents/Joe - Work/data/learning/CSS 3/HTML/CSS/DivDisplay.css",
+		"/C/Users/metrix/Documents/Joe - Work/data/learning/CSS 3/CSS/together-1.css",
+		"/C/Users/metrix/Documents/Joe - Work/data/learning/test.html",
+		"/C/Users/metrix/Documents/Joe - Work/data/learning/stylesrev3.css",
+		"/C/Users/metrix/Documents/Joe - Work/data/learning/stylesrev1.css",
+		"/C/Users/metrix/Documents/Joe - Work/data/learning/style2.css",
+		"/C/Users/metrix/Documents/Joe - Work/data/learning/index2.html",
+		"/S/PVC/09 - SQL/New Concession Function",
+		"/S/PVC/09 - SQL/SQL As of 1-6-2016"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"float",
+			"  "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/E/a/lesson.html",
+					"settings":
+					{
+						"buffer_size": 148,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								148
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<h1>Shopping List</h1>",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/E/a/index.html",
+					"settings":
+					{
+						"buffer_size": 79,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35,
+								35
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true
+}
